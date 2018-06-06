@@ -1,14 +1,14 @@
 # Site settings
 title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/"
+description:    "Things"
+baseurl:        ""
 url:            "http://www.adampreston.org/"
 
 # Author
 author:
-  name:         Adam Preston
+  name:         Adam
   url:          http://www.adampreston.org
-  email:        chesterhow@gmail.com
+  email:        adamatlast@gmail.com
 
 # Build settings
 markdown:       kramdown
