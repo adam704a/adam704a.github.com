@@ -1,0 +1,229 @@
+{
+    "headers": [
+        {
+            "name": "dx",
+            "column": "Data",
+            "valueType": "TEXT",
+            "type": "java.lang.String",
+            "hidden": false,
+            "meta": true
+        },
+        {
+            "name": "pe",
+            "column": "Period",
+            "valueType": "TEXT",
+            "type": "java.lang.String",
+            "hidden": false,
+            "meta": true
+        },
+        {
+            "name": "value",
+            "column": "Value",
+            "valueType": "NUMBER",
+            "type": "java.lang.Double",
+            "hidden": false,
+            "meta": false
+        }
+    ],
+    "metaData": {
+        "items": {
+            "UVlEzpRfnFS": {
+                "name": "Female, 5 - 9"
+            },
+            "hK98CrSXMs0": {
+                "name": "Male, 15 - 19"
+            },
+            "m9jGzDB0foC": {
+                "name": "Quarterly Target: TX_RET"
+            },
+            "THIS_QUARTER": {
+                "name": "This quarter"
+            },
+            "jU98ditoHG8": {
+                "name": "Male, 45 - 49"
+            },
+            "IwQcbEmFFfS": {
+                "name": "Female, 45 - 49"
+            },
+            "ivgolyEqeMr": {
+                "name": "Female, < 1"
+            },
+            "PLImUMss31s": {
+                "name": "TX_RET"
+            },
+            "dx": {
+                "name": "Data"
+            },
+            "t6F68LLXZ4N": {
+                "name": "Female, 15 - 19"
+            },
+            "lIycQvRJQYy": {
+                "name": "Male, 10 - 14"
+            },
+            "r1CRVxFzH8n": {
+                "name": "TX_NEW"
+            },
+            "HQHbsRDb2fQ": {
+                "name": "Female, 25 - 29"
+            },
+            "oY6niLzKdCU": {
+                "name": "Male, 50 +"
+            },
+            "wLyP1PVloCb": {
+                "name": "Female, 40 - 44"
+            },
+            "SKdLpvlBLFO": {
+                "name": "Female, 20 - 24"
+            },
+            "cAFRqYUmnh2": {
+                "name": "Female, 10 - 14"
+            },
+            "O2zEqFo7rxt": {
+                "name": "Male, 1 - 4"
+            },
+            "ZthzFHwzjaI": {
+                "name": "FY19 Target: TX_RET"
+            },
+            "PlYmmbX3kjt": {
+                "name": "Male, 35 - 39"
+            },
+            "WKw9nPQco40": {
+                "name": "FY19 Target: TX_NEW"
+            },
+            "ou": {
+                "name": "Organisation unit"
+            },
+            "znUiNaoVcXn": {
+                "name": "Female, 1 - 4"
+            },
+            "RBsPzczi1xa": {
+                "name": "Male, 30 - 34"
+            },
+            "TU3rIHvnJ3A": {
+                "name": "% of FY19 Target achieved: TX_NEW"
+            },
+            "2019Q2": {
+                "name": "Apr to Jun 2019"
+            },
+            "eLIz7quiWPj": {
+                "name": "% of FY19 Target achieved: TX_RET"
+            },
+            "sne5aUq1ufA": {
+                "name": "Female, 50 +"
+            },
+            "ay8JVY4Indn": {
+                "name": "Male, 5 - 9"
+            },
+            "ujZAkUt5qDR": {
+                "name": "Male, 25 - 29"
+            },
+            "pe": {
+                "name": "Period"
+            },
+            "XOHdAwpsv3c": {
+                "name": "Male, 40 - 44"
+            },
+            "Nm3Fi8ZhgYt": {
+                "name": "Quarterly Target: TX_NEW"
+            },
+            "dihb5ackrE8": {
+                "name": "Male, 20 - 24"
+            },
+            "WbwZOTyCFLc": {
+                "name": "Male, < 1"
+            },
+            "CZC71aHjtbS": {
+                "name": "Female, 35 - 39"
+            },
+            "p5CFoSRdCmc": {
+                "name": "South Sudan"
+            },
+            "UtECTnl1QAj": {
+                "name": "Female, 30 - 34"
+            }
+        },
+        "dimensions": {
+            "dx": [
+                "WKw9nPQco40",
+                "Nm3Fi8ZhgYt",
+                "r1CRVxFzH8n",
+                "TU3rIHvnJ3A",
+                "ZthzFHwzjaI",
+                "m9jGzDB0foC",
+                "PLImUMss31s",
+                "eLIz7quiWPj"
+            ],
+            "pe": [
+                "2019Q2"
+            ],
+            "ou": [
+                "p5CFoSRdCmc"
+            ],
+            "co": [
+                "UVlEzpRfnFS",
+                "hK98CrSXMs0",
+                "jU98ditoHG8",
+                "IwQcbEmFFfS",
+                "ivgolyEqeMr",
+                "t6F68LLXZ4N",
+                "lIycQvRJQYy",
+                "HQHbsRDb2fQ",
+                "oY6niLzKdCU",
+                "wLyP1PVloCb",
+                "SKdLpvlBLFO",
+                "cAFRqYUmnh2",
+                "O2zEqFo7rxt",
+                "PlYmmbX3kjt",
+                "znUiNaoVcXn",
+                "RBsPzczi1xa",
+                "sne5aUq1ufA",
+                "ay8JVY4Indn",
+                "ujZAkUt5qDR",
+                "XOHdAwpsv3c",
+                "dihb5ackrE8",
+                "WbwZOTyCFLc",
+                "CZC71aHjtbS",
+                "UtECTnl1QAj"
+            ]
+        }
+    },
+    "rows": [
+        [
+            "WKw9nPQco40",
+            "2019Q2",
+            "1277.0"
+        ],
+        [
+            "Nm3Fi8ZhgYt",
+            "2019Q2",
+            "319.3"
+        ],
+        [
+            "TU3rIHvnJ3A",
+            "2019Q2",
+            "19.4"
+        ],
+        [
+            "ZthzFHwzjaI",
+            "2019Q2",
+            "1456.0"
+        ],
+        [
+            "m9jGzDB0foC",
+            "2019Q2",
+            "364.0"
+        ],
+        [
+            "eLIz7quiWPj",
+            "2019Q2",
+            "0.0"
+        ],
+        [
+            "r1CRVxFzH8n",
+            "2019Q2",
+            "62.0"
+        ]
+    ],
+    "width": 3,
+    "height": 7
+}

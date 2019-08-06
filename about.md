@@ -5,8 +5,9 @@ author: "Adam"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server and all of that other stuff.
+I spend a lot my days working to solve problems for global health projects. I do this mostly by advising these project on their use of technology. You see, deploying technology or more specifically Information and Communication Technology, or ICT in the context of international development can be a tricky thing. We do all of this for clients such as United States Agency for International Development (USAID), Bill and Melinda Gates Foundation, and Center for Disease Control and Prevention (CDC). There are others too, but these are the biggies.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. 
+In my day to day work, I find myself not having the time or even the place to document some of the work that I do. So, thats why I started this thing. In here, you'll find a nice assortment of stories from the field, my impressions of conferences and other professional events that I have attended, and other reflections on digital health. 
+
 
 Thanks for reading!
