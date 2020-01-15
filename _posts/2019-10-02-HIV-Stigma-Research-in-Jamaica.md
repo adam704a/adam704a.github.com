@@ -5,7 +5,7 @@ author: "Adam"
 ---
 
 
-In the world of public health one of the fundamental priorities is ensuring that everyone has access to healthcare. The World Health Organization uses the term UHC or <a href="https://www.who.int/health-topics/universal-health-coverage#tab=tab_1s" target="_blank">Universal Health Coverage</a> for this concept. There are a lot reasons why people do not have access health care and one of them, especially in HIV community because of discrimination. UNAIDS and the World Health Organization (WHO) cites fear of stigma and discrimination as the main reason why people are reluctant to get tested, disclose their HIV status and take the required medication.
+In the world of public health one of the fundamental priorities is ensuring that everyone has access to healthcare. The World Health Organization uses the term UHC or <a href="https://www.who.int/health-topics/universal-health-coverage#tab=tab_1s" target="_blank">Universal Health Coverage</a> for this concept. There are a lot reasons why people do not have access health care and one of them, especially in HIV community is because of discrimination. UNAIDS and the World Health Organization (WHO) cites fear of stigma and discrimination as the main reason why people are reluctant to get tested, disclose their HIV status and take the required medication.
 
 ![The workshop goers](../assets/training.jpg "Interviewer training")
 <span style="font-size: 14px; font-style: italic;"> Over the five days, this room of people were trained to conduct the HIV Stigma Index for Jamaica.
