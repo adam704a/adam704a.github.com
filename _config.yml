@@ -1,6 +1,6 @@
 # Site settings
-title:          Adam's Internet Website
-description:    "Adventures in Implementation"
+title:          "Adventures in Implementation"
+description:    ""
 baseurl:        ""
 url:            "http://www.adampreston.org/"
 
