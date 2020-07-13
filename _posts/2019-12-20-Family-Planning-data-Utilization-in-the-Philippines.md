@@ -25,4 +25,4 @@ In early 2020, the ReachHealth M&E team replicated this training for two other o
 
 ## Conclusion
 
-Deploying technology infrastructure is only the first step in digitizing M&E processes. DHIS2 provides a great foundation for data management and reporting but to fully realize the investment of digital M&E, project teams should also have a foundation of data literacy. Having the technology infrastructure in place along with users who are equipped to understand and interpret data is how we're building a culture of data use to support family planning in the Philippines. 
+Deploying technology infrastructure is only the first step in digitizing M&E processes. DHIS2 provides a great foundation for data management and reporting but to fully realize the investment of digital M&E, project teams should also have a foundation of data literacy. Having the technology infrastructure in place along with users who are equipped to understand and interpret data is how this project team in the Philippines is building a culture of data use and getting the most out of their project data. 
