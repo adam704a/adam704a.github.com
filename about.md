@@ -10,4 +10,4 @@ I spend a lot my days working to solve problems for global health projects. I do
 In my day to day work, I find myself not having the time or even the place to document some of the work that I do. So, that's why I started this thing. In here, you'll find a nice assortment of stories from the field, my impressions of conferences and other professional events that I have attended, and other reflections on digital health. 
 
 
-Thanks for reading
+Thanks for reading!
